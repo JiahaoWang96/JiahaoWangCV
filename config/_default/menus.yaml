@@ -7,12 +7,9 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Publications
+  - name: Publications & Working Papers
     url: '#publications'
     weight: 20
-  - name: Working Papers
-    url: '#working papers'
-    weight: 30
   - name: News
     url: '#posts'
     weight: 40
