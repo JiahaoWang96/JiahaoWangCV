@@ -5,7 +5,7 @@ subtitle: 2021年9月12日，北京大学中国卫生发展研究中心举办《
 date: 2021-09-17T00:00:00.000Z
 summary: ""
 draft: false
-featured: false
+featured: true
 authors: []
 lastmod: 2020-12-13T00:00:00.000Z
 tags: []
