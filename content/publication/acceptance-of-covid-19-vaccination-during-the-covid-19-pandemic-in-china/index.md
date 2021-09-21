@@ -3,8 +3,8 @@ title: " Acceptance of COVID-19 Vaccination during the COVID-19 Pandemic in Chin
 publication_types:
   - "2"
 authors:
-  - '"Jiahao Wang"'
-  - '"Rize Jing"'
+  - Jiahao Wang
+  - Rize Jing
   - Xiaozhen Lai
   - Haijun Zhang
   - Yun Lyu
