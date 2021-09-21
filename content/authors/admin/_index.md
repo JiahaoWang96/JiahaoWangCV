@@ -45,12 +45,10 @@ My mentor is Prof. Hai Fang at China Center for Health Development Studies, who 
 My present interests of study are: 
 
 1. Assessing the impact of social determinants (e.g., policy planning, neighborhood and built environment) on health; 
-
 2. Modelling the time and spatical trends of the diseae incidence; 
-
 3. Evaluating cost-effectivenees of potential strategies enhacing population health.
 
-My recent works focuse on: 
+My recent works focus on: 
 
 1. Informing strategies to promote COVID-19 vaccine uptake in China, adopting multidisciplinary perspective(e.g, epidemiology, economic and psychology); 
 2. Conducting economic evaluation of national and regional rotavirus vaccination programs for children under 5.
