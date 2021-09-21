@@ -80,4 +80,5 @@ My recent works focuse on:
 1) Informing strategies to promote COVID-19 vaccine uptake in China, adopting multidisciplinary perspective(e.g, epidemiology, economic and psychology); 
 2) Conducting economic evaluation of national and regional rotavirus vaccination programs for children under 5.
 3) Examining imapct of city policy and planning on population health, incorporating databases in individual, community and regional levels. 
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} here.
