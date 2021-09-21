@@ -4,12 +4,12 @@ title: "The Changing Acceptance of COVID-19 Vaccination in Different Epidemic
 publication_types:
   - "2"
 authors:
-  - Jia Wang
+  - Jiahao Wang
   - Xinran Lu
   - Xiaozhen Lai
   - Yun Lyn
   - Haijun Zhang
-  - Yufei Fenghuang 
+  - Yufei Fenghuang
   - Rize Jing
   - Li Li
   - Wenzhou Yu
