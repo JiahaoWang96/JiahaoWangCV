@@ -1,9 +1,18 @@
 ---
-title: 《中国疫苗经济学评价指南》专家研讨会举办 (Expert seminar on Evaluation Guide of Vaccine
-  Economics of China was held)
+title: Expert seminar on Evaluation Guide of Vaccine Economics of China was held
 subtitle: ""
 date: 2021-09-17T00:00:00.000Z
-summary: ""
+summary: On September 12, 2021, China Health Development Research Center, Peking
+  University held an expert seminar on The Evaluation Guide of Vaccine Economics
+  in China.  From Chinese academy of medical sciences, national health committee
+  health development research center, the Chinese center for disease control and
+  prevention, and the centers for disease control and prevention, more than 10
+  provinces and cities, the bill and Melinda gates foundation, Beijing
+  university, tsinghua university, fudan university, zhejiang university,
+  shandong university, xi 'an jiaotong university, such as more than 20 domestic
+  famous universities and research institutions of more than 100 experts to
+  learn  In this paper, we discussed "Guide to Evaluation of Vaccine Economics
+  in China" edited by Professor Fang Hai of Peking University.
 draft: false
 featured: true
 authors: []
@@ -17,7 +26,7 @@ image:
   placement: 2
   preview_only: false
   filename: 640.webp
-  alt_text: 2021年9月12日，北京大学中国卫生发展研究中心举办《中国疫苗经济学评价指南》专家研讨会，来自中国医学科学院、国家卫生健康委卫生发展研究中心、中国疾病预防控制中心和10余省市疾病预防控制中心、比尔及梅琳达盖茨基金会、北京大学、清华大学、复旦大学、浙江大学、山东大学、西安交通大学、等20余所国内著名高校和研究机构的100余位专家学者就北京大学方海教授主编的《中国疫苗经济学评价指南》展开了深入研讨。
+  alt_text: ""
 ---
 ![图片](https://mmbiz.qpic.cn/mmbiz_jpg/iaFbjHZ1liadlT5uZDeJGvK4oXe4DayVjZqwllT9NqNibdfLtpllzkVQL0ZwoOxYDTIkLRZBAxaN9deg2EYrgvOYg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
