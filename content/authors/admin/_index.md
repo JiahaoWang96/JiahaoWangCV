@@ -71,10 +71,10 @@ highlight_name: true
 I am a master candidate of social medicine and health service management, with the concentration in health economic, at Peking university. 
 My mentor is Prof. Hai Fang at China Center for Health Development Studies, who is also the deputy director of PKU-Chinese CDC Joint Center for Vaccine Economics.
 
-My present interests of study are in 1) assessing the impact of social determinants (e.g., policy planning, neighborhood and built environment) on health; 
-2) modelling the change of diseae incidence in time and spatical trends; 3) evaluating cost-effectivenees of potential strategies enhacing population health.
+My present interests of study are 1) assessing the impact of social determinants (e.g., policy planning, neighborhood and built environment) on health; 
+2) modelling the time and spatical trends of the diseae incidence; 3) evaluating cost-effectivenees of potential strategies enhacing population health.
  
-My recent work focuses on informing strategies to promote COVID-19 vaccine uptake in China by using multidisciplinary methods (e.g, epidemiology, economic and psychology), 
-and conducting economic evaluation of national and regional rotavirus vaccination programs for children under 5.
+My recent work focuses on 1) informing strategies to promote COVID-19 vaccine uptake in China by using multidisciplinary methods (e.g, epidemiology, economic and psychology), 
+and 2) conducting economic evaluation of national and regional rotavirus vaccination programs for children under 5.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} here.
