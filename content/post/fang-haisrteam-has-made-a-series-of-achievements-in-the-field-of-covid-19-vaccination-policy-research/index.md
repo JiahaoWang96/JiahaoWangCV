@@ -1,5 +1,5 @@
 ---
-title: Fang Hai'srteam has made a series of achievements in the field of
+title: Fang Hai's team has made a series of achievements in the field of
   COVID-19 vaccination policy research
 date: 2021-06-24T15:07:40.568Z
 draft: false
