@@ -8,7 +8,7 @@ authors:
   - Wang
   - J.
   - Fang
-  - H. (2021).
+  - H.
 publication: "Beijing: People's Medical Publishing House. (forthcoming in Oct 2021)"
 publication_short: ""
 draft: false
