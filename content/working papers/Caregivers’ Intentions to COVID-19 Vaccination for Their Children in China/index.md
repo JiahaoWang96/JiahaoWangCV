@@ -1,5 +1,5 @@
 ---
-title: Caregivers’Intentions to COVID-19 Vaccination for Their Children in China: A Cross-Sectional Survey
+title: "Caregivers' Intentions to COVID-19 Vaccination for Their Children in China: A Cross-Sectional Survey"
 publication_types:
   - "2"
 authors:

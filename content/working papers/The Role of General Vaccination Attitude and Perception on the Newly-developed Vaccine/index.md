@@ -1,5 +1,5 @@
 ---
-title: The Role of General Vaccination Attitude and Perception on the Newly-developed Vaccine: Results From a Survey of Chinese Adults to Accept the COVID-19 Vaccine
+title: "The Role of General Vaccination Attitude and Perception on the Newly-developed Vaccine: Results From a Survey of Chinese Adults to Accept the COVID-19 Vaccine"
 publication_types:
   - "2"
 authors:

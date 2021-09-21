@@ -1,6 +1,6 @@
 ---
-title: From COVID-19 Vaccination Intention to Actual Vaccine Uptake: A Longitudinal Study Among Chinese Adults After Six
-Months of a National Vaccination Campaign
+title: "From COVID-19 Vaccination Intention to Actual Vaccine Uptake: A Longitudinal Study Among Chinese Adults After Six
+Months of a National Vaccination Campaign"
 publication_types:
   - "2"
 authors:
