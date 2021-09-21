@@ -21,8 +21,8 @@ draft: false
 featured: true
 image:
   filename: 2.png
-  focal_point: Smart
-  preview_only: false
+  focal_point: ""
+  preview_only: true
   caption: ""
   alt_text: ""
 ---
