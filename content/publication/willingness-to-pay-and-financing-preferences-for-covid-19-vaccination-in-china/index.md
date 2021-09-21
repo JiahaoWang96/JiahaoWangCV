@@ -20,7 +20,7 @@ authors:
   - "& Fang"
   - H.
 doi: 10.1016/j.vaccine.2021.02.060
-publication: Vaccine, 39(14), 1968–1976.
+publication: Vaccine, 39(14), 1968–1976
 abstract: >-
   Background
 
