@@ -1,7 +1,7 @@
 ---
 title: "The latest research of Professor Fang Hai's team: The inclusion of
   Haemophilus influenzae type B (Hib) vaccine into China's immunization program
-  has brought huge benefits  "
+  will bring huge benefits  "
 subtitle:  2021年8月11日，北京大学中国卫生发展研究中心方海教授及其研究团队在专业医学期刊《BMC
   Medicine》发表了关于b型流感嗜血杆菌（Hib）结合疫苗纳入我国国家免疫规划的国家级和省级疫苗效果和经济学评价的最新研究，研究提示将 Hib
   疫苗纳入我国免疫规划将收益巨大。
