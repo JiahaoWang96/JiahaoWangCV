@@ -77,7 +77,7 @@ My present interests of study are:
 3) Evaluating cost-effectivenees of potential strategies enhacing population health.
  
 My recent works focuse on: 
-1) Informing strategies to promote COVID-19 vaccine uptake in China by using multidisciplinary methods (e.g, epidemiology, economic and psychology); 
+1) Informing strategies to promote COVID-19 vaccine uptake in China, adopting multidisciplinary perspective(e.g, epidemiology, economic and psychology); 
 2) Conducting economic evaluation of national and regional rotavirus vaccination programs for children under 5.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} here.

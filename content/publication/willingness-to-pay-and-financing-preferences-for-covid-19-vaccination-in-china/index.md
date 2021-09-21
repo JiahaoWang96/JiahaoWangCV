@@ -3,22 +3,14 @@ title: Willingness to pay and financing preferences for COVID-19 vaccination in 
 publication_types:
   - "2"
 authors:
-  - Wang
-  - J.
-  - Lyu
-  - Y.
-  - Zhang
-  - H.
-  - Jing
-  - R.
-  - Lai
-  - X.
-  - Feng
-  - H.
-  - Knoll
-  - M. D.
-  - "& Fang"
-  - H.
+  - Jiahao Wang
+  - Yun Lyu
+  - Haijun Zhang
+  - Ringze Jing
+  - Xiaozhen Lai
+  - Yufei Fenghuang
+  - Maria Deloria Knoll
+  - Hai Fang
 doi: 10.1016/j.vaccine.2021.02.060
 publication: Vaccine, 39(14), 1968–1976
 abstract: >-

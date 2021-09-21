@@ -4,26 +4,16 @@ title: "The Changing Acceptance of COVID-19 Vaccination in Different Epidemic
 publication_types:
   - "2"
 authors:
-  - Wang
-  - J.
-  - Lu
-  - X.
-  - Lai
-  - X.
-  - Lyu
-  - Y.
-  - Zhang
-  - H.
-  - Fenghuang
-  - Y.
-  - Jing
-  - R.
-  - Li
-  - L.
-  - Yu
-  - W.
-  - Fang
-  - H.
+  - Jia Wang
+  - Xinran Lu
+  - Xiaozhen Lai
+  - Yun Lyn
+  - Haijun Zhang
+  - Yufei Fenghuang 
+  - Rize Jing
+  - Li Li
+  - Wenzhou Yu
+  - Fang Hai
 doi: 10.3390/vaccines9030191
 publication: Vaccines, 9(3), 191
 abstract: COVID-19 vaccines have been conditionally used in a few countries,

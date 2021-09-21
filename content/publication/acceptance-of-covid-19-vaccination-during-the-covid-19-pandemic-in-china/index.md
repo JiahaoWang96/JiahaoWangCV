@@ -3,20 +3,13 @@ title: " Acceptance of COVID-19 Vaccination during the COVID-19 Pandemic in Chin
 publication_types:
   - "2"
 authors:
-  - Wang
-  - J.
-  - Jing
-  - R.
-  - Lai
-  - X.
-  - Zhang
-  - H.
-  - Lyu
-  - Y.
-  - Knoll
-  - M. D.
-  - Fang
-  - H.
+  - Jiahao Wang
+  - Rize Jing
+  - Xiaozhen Lai
+  - Haijun Zhang
+  - Yun Lyu
+  - Maria Deloria Knoll
+  - Hai Fang
 doi: 10.3390/vaccines8030482.
 publication: Vaccines, 8(3), 482
 abstract: "Background: Faced with the coronavirus disease 2019 (COVID-19)
