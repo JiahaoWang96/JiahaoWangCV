@@ -3,14 +3,13 @@ title: "Economic evaluation of national rotavirus vaccination program in China.
   Economic Evaluation of Five Non-Expanded Program on Immunization Vaccines in
   China. "
 publication_types:
-  - "6"
+  - "2"
 authors:
   - Wang
   - J.
   - Fang
   - H.
-publication: "Beijing: People's Medical Publishing House. (forthcoming in Oct 2021)"
-publication_short: ""
+publication: Beijing: People's Medical Publishing House. (forthcoming in Oct 2021)
 draft: false
 featured: false
 image:
