@@ -8,6 +8,22 @@ image:
   filename: 2.png
   focal_point: Smart
   preview_only: false
+  caption: ""
+  alt_text: "Recently, Professor Meng Qingyue of School of Public Health and China
+    Health Development Research Center, Peking University, undertook the key
+    project on COVID-19 prevention and Control system Modernization in China in
+    the context of COVID-19 outbreak, among which Professor Fang Hai undertook
+    the following sub-projects:  The \"Research on China's COVID-19 vaccination
+    and Funding Strategies\", jointly with experts and scholars from the Center
+    for Immunization Planning of the Chinese Center for Disease Control and
+    Prevention and The Bloomberg School of Public Health of Johns Hopkins
+    University, has made a series of achievements in the research on China's
+    COVID-19 vaccination and funding strategies.  Several studies have been
+    published in Vaccines, Vaccines and Vaccines, an international academic
+    journal in the field.  The series of studies provided evidence support and
+    policy recommendations for the formulation and implementation of
+    immunization strategies including COVID-19 vaccination and financing, as
+    well as the promotion of China's COVID-19 vaccination program.  "
 ---
 促进新型冠状病毒疫苗（以下简称：新冠疫苗）接种意愿，提高疫苗接种率，对预防和控制我国新型冠状病毒肺炎（以下简称：新冠肺炎）疫情具有重要意义。近期，由北京大学公共卫生学院和中国卫生发展研究中心孟庆跃教授承担的北京大学抗击新冠肺炎疫情重点课题“新冠肺炎疫情背景下我国疾病预防控制体系现代化建设研究”，其中方海教授承担的子课题：“我国新冠疫苗接种和筹资策略研究”，联合中国疾病预防控制中心免疫规划中心和美国约翰霍普金斯大学Bloomberg School of Public Health多名专家学者，在我国新冠疫苗接种和筹资策略研究方面取得了系列成果，多项研究在疫苗领域国际学术期刊 “Vaccines”、“Vaccine”上发表。该系列研究为我国新冠疫苗接种、筹资等免疫策略的制定和实施，以及推进我国新冠疫苗接种规划提供了证据支持和政策建议。
 
