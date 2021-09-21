@@ -49,7 +49,7 @@ authors:
   - "& Fang"
   - H.
 author_notes: []
-publication: Vaccines
+publication: Vaccines, 8(3), 482.
 summary: ""
 url_dataset: ""
 url_project: ""
