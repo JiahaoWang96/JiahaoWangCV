@@ -1,5 +1,5 @@
 ---
-title: I do a oral presetation in the International Health Economics Association
+title: I Present a Oral Report in the International Health Economics Association
   (iHEA) 2021 Congress
 date: 2021-07-14T15:16:42.788Z
 summary: "Public Health Impact and Cost-effectiveness of Rotavirus Vaccination
@@ -9,8 +9,8 @@ draft: false
 featured: false
 image:
   filename: a6f18855f3b15a042893a5f68b91abb.png
-  focal_point: Smart
-  preview_only: false
+  focal_point: ""
+  preview_only: true
 ---
 **Public Health Impact and Cost-effectiveness of Rotavirus Vaccination in China: Comparison Between Private-sector Provision Only and a Potential National Immunization Program**
 
