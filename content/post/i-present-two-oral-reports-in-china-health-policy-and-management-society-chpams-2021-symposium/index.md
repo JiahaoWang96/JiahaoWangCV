@@ -1,7 +1,7 @@
 ---
 title: "I Present Two Oral Reports in China Health Policy and Management Society
   (CHPAMS) 2021 Symposium. "
-date: 2021-09-21T15:25:46.644Z
+date: 2021-08-05T15:25:46.644Z
 summary: "The Changing Acceptance of COVID-19 Vaccination in Different Epidemic
   Phases in China: A Longitudinal Study"
 draft: false
