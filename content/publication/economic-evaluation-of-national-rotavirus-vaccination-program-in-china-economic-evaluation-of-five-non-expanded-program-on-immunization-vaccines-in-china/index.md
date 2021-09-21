@@ -1,9 +1,9 @@
 ---
 title: "Economic evaluation of national rotavirus vaccination program in China.
   Economic Evaluation of Five Non-Expanded Program on Immunization Vaccines in
-  China. "
+  China"
 publication_types:
-  - "2"
+  - "6"
 authors:
   - Wang
   - J.
