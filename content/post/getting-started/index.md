@@ -24,7 +24,7 @@ image:
   caption: ""
   focal_point: ""
   placement: 2
-  preview_only: false
+  preview_only: true
   filename: 640.webp
   alt_text: ""
 ---
