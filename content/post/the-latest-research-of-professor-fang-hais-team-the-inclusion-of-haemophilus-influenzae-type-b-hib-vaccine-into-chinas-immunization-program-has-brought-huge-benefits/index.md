@@ -14,8 +14,8 @@ draft: false
 featured: true
 image:
   filename: 微信图片_20210921230006.jpg
-  focal_point: smart
-  preview_only: false
+  focal_point: ""
+  preview_only: true
 ---
 **论文题目**
 
