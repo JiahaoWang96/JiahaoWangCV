@@ -22,8 +22,8 @@ authors:
   - L.
   - Yu
   - W.
-  - "& Fang"
-  - H
+  - Fang
+  - H.
 doi: 10.3390/vaccines9030191
 publication: Vaccines, 9(3), 191
 abstract: COVID-19 vaccines have been conditionally used in a few countries,

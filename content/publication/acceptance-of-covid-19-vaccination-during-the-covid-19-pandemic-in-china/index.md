@@ -15,8 +15,8 @@ authors:
   - Y.
   - Knoll
   - M. D.
-  - "& Fang"
-  - H
+  - Fang
+  - H.
 doi: 10.3390/vaccines8030482.
 publication: Vaccines, 8(3), 482
 abstract: "Background: Faced with the coronavirus disease 2019 (COVID-19)
