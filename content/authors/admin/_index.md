@@ -8,7 +8,7 @@ interests:
   - Modeling in Population Health
   - Urban Health
   - Health Equity
-  - Health Economic
+  - Health Promotion
 social:
   - icon: envelope
     icon_pack: fas
