@@ -50,7 +50,7 @@ My present interests of study are:
 
 My recent works focus on: 
 
-1. Informing strategies to promote COVID-19 vaccine uptake in China by adopting multidisciplinary perspectives (e.g, epidemiology, economic and psychology); 
+1. Addressing vaccine hesitancy and informing policy-making to promote COVID-19 vaccine uptake in China by adopting multidisciplinary perspectives (e.g, epidemiology, economic and psychology); 
 2. Conducting economic evaluation of national and regional rotavirus vaccination programs for children under 5.
 3. Examining imapct of city policy and planning on population health, incorporating databases in individual, community and regional levels. 
 
