@@ -15,7 +15,7 @@ authors:
   - Jia Guo
   - Hai Fang
 doi: null
-publication: Human Vaccines & Immunotherapeutics. 12(17).
+publication: Human Vaccines & Immunotherapeutics. 12(17)
 abstract: null
 draft: false
 featured: false
