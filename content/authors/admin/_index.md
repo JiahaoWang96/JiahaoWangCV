@@ -50,8 +50,8 @@ My present interests of study are:
 
 My recent works focus on: 
 
-1. Addressing public vaccine hesitancy and desginning  stregeties to promote COVID-19 vaccine uptake in China by longitudinal surveys and multidisciplinary perspectives (e.g, epidemiology, economics, health hehavior, and policy-planning); 
-2. Conducting the economic evaluation of national and regional rotavirus vaccination programs for children under 5, depicting disparty of regional and population in vaccine coverage and health outcomes.
-3. Examining the impact of policy (China Healthy Cities Initiative) on population health with a attempt tp incorporate data at individual, community, and regional levels. 
+1. Addressing public vaccine hesitancy and designing strategies to promote COVID-19 vaccine uptake in China by longitudinal surveys and multidisciplinary perspectives (e.g, epidemiology, economics, health behavior, and policy-planning); 
+2. Conducting the economic evaluation of national and regional rotavirus vaccination programs for children under 5, depicting disparity of regional and population in vaccine coverage and health outcomes.
+3. Examining the impact of policy (China Healthy Cities Initiative) on population health with ab attempt to incorporate data at individual, community, and regional levels. 
 
   {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} here.
