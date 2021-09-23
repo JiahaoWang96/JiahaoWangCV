@@ -9,6 +9,7 @@ interests:
   - Urban Health
   - Health Equity
   - Health Promotion
+  - Social epidemiology
 social:
   - icon: envelope
     icon_pack: fas
