@@ -39,19 +39,19 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hi! I am a master candidate of social medicine and health service management, with a concentration in health economic, at Peking University. 
+Hi! I am a master candidate in social medicine and health service management, with a concentration in health economics, at Peking University. 
 My mentor is Prof. Hai Fang at China Center for Health Development Studies, who is also the deputy director of PKU-Chinese CDC Joint Center for Vaccine Economics.
 
 My present interests of study are: 
 
-* Assessing the impact of social determinants on health; 
-* Modelling the time and spatical trends of the diseae incidence; 
-* Evaluating cost-effectivenees of potential strategies enhacing population health.
+* Assessing the impact of social determinants (e.g. social network, environmental planning, etc. ) on health; 
+* Modeling the time and spatial trends of the disease incidence; 
+* Evaluating the cost-effectiveness of potential strategies enhancing population health.
 
 My recent works focus on: 
 
-1. Addressing vaccine hesitancy and informing policy-making to promote COVID-19 vaccine uptake in China by longitudinal surveys and multidisciplinary perspectives (e.g, epidemiology, economic and psychology); 
-2. Conducting economic evaluation of national and regional rotavirus vaccination programs for children under 5.
-3. Examining imapct of city policy and planning on population health, incorporating databases in individual, community and regional levels. 
+1. Addressing public vaccine hesitancy and desginning  stregeties to promote COVID-19 vaccine uptake in China by longitudinal surveys and multidisciplinary perspectives (e.g, epidemiology, economics, health hehavior, and policy-planning); 
+2. Conducting the economic evaluation of national and regional rotavirus vaccination programs for children under 5, depicting disparty of regional and population in vaccine coverage and health outcomes.
+3. Examining the impact of policy (China Healthy Cities Initiative) on population health with a attempt tp incorporate data at individual, community, and regional levels. 
 
   {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} here.
