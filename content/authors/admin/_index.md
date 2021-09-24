@@ -21,9 +21,9 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/%E5%98%89%E8%B1%AA-%E7%8E%8B-9a4110126/
 organizations:
-  - name: School of Public Health, Peking Univeristy
-    url: https://sph.pku.edu.cn/index.htm
-  - name: China Center for Health Development Studies, Peking Univeristy
+  - name: School of Public Health, Peking University
+    url: https://sph.pku.edu.cn/
+  - name: China Center for Health Development Studies, Peking University
     url: https://www.cchds.pku.edu.cn/
 education:
   courses:
